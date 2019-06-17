@@ -3,14 +3,14 @@ html, body {
 }
 
 .bkgrd {
-    background-color: rgb(18, 13, 51)
+    background-color: rgb(0, 0, 0)
 }
 
 .nvflx {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: rgb(4, 4, 20, 0.425);
+    background-color: rgba(0, 0, 0, 0.425);
     position: fixed;
     width: 100vw;
 }
@@ -28,6 +28,18 @@ section {
     color: gainsboro;
 }
 
+section:nth-of-type(1) {
+    background-image: url("/images/stars2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section:nth-of-type(3) {
+    background-image: url("/images/stars.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /*
 font-family: 'Lobster', cursive;
 font-family: 'Pacifico', cursive;
@@ -35,4 +47,19 @@ font-family: 'Pacifico', cursive;
 
 h2 {
     font-family: 'Lobster', cursive;
+}
+
+
+@media only screen and (min-width: 800px){
+    h2 {
+        font-size: 5em;
+    }
+}
+
+
+
+@media only screen and (max-width: 800px){
+    h2 {
+        font-size: 2em;
+    }
 }
