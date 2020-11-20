@@ -1,4 +1,0 @@
-# rmcdongit.github.io
-
-## Assignments
-
