@@ -1,7 +1,5 @@
 ## Assignment 1
-#Title
-
-
+# Title
 * Description (brief general description of the project)
 * Screenshots and additional information about your work.
 * Additional information can include technical details, UML, unique ways you solved the challenge, etc.
