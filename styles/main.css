@@ -22,6 +22,10 @@ nav a {
     color: gray;
 }
 
+header {
+    padding-top: 2em;
+}
+
 section {
     height: 50vw;
     padding: 10vh 5vw 0vh 5vh;
