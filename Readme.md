@@ -1,7 +1,7 @@
-## Programming 101 Fall 2021
+# Programming 101 Fall 2021
 
 
-# Assignment Title
+## Assignment Title
 
 * Description (brief general description of the project)
 * Screenshots and additional information about your work.
@@ -11,7 +11,7 @@
 > Public repos to your code are not required for this assignment, though. 
 > Only the title, description, additional information, and screenshots are minimum requirements.
 
-# Assignment Title
+## Assignment Title
 
 * Description (brief general description of the project)
 * Screenshots and additional information about your work.
