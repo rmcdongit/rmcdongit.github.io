@@ -23,6 +23,7 @@
         <p>Description (brief general description of the project)</p>
         <p>Screenshots and additional information about your work.</p>
         <ul>
+          <li>If you have public GitHub repos you can link directly to them.</li>
           <li>Additional information can include technical details, UML, unique ways you solved the challenge, etc.</li>
         </ul>
     </section>
@@ -32,18 +33,15 @@
         <p>Description (brief general description of the project)</p>
         <p>Screenshots and additional information about your work.</p>
         <ul>
+          <li>If you have public GitHub repos you can link directly to them.</li>
           <li>Additional information can include technical details, UML, unique ways you solved the challenge, etc.</li>
         </ul>
     </section>
     <section id="more">
         <i class="fas fa-angle-double-down"></i>
         <h2>More Links</h2>
-        <p >
-          If you have public GitHub repos you can link directly to them.
-          Public repos to your code are not required for this assignment, though. Only the title, description, additional information, and screenshots are minimum requirements.
-        </p>
-        <a href="#" >Public GitHub Project</a> <br>
-        <a href="#">My LinkedIn Profile</a>
+        <h3><a href="#" >Public GitHub Project</a></h3> <br>
+        <h3><a href="#">My LinkedIn Profile</a></h3>
     </section>
 
 </body>
